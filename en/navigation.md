@@ -25,9 +25,28 @@
 
 [Venue](venue.md)
 
-[About](about.md)
+[About]()
 
+  * # 14mmm
+  * [General Information](http://14mmm.org)
+  * [Mapping of Mappings](https://docs.google.com/a/getactive.org/spreadsheets/d/1gyqgHDoEj-w8LEdcPBs_J1FMtOf0GHFzZcHPtAQMorI/edit#gid=0)
+  * [Mailing List (german)](http://list.allmende.io/cgi-bin/mailman/listinfo/maps)
+  * [Mailing List (english)](http://lists.14mmm.org/cgi-bin/mailman/listinfo/global)
+  * [Trello](https://trello.com/14mmm)
+  - - - -
+  * # Related Initiatives
+  * [Commons Blog](http://commonsblog.wordpress.com/)
+  * [Mutmacherei](http://www.mutmacherei.net/)
+  * [onYOURway](http://www.onyourway.at/)
+  * [TESS](https://www.pik-potsdam.de/research/climate-impacts-and-vulnerabilities/projects/project-pages/tess/tess-1)
+  - - - -
+  * # Infrastructure
+  * [OpenStreetMap](http://www.openstreetmap.org/)
+  * [uMap](http://umap.openstreetmap.fr/)
+  - - - -
+  * [This pages' source](https://github.com/14mmm/OKFestMMM)
 
+[Attending](http://attending.io/events/mapping-mmm)
 
 <!-- A more complex navigation example: ----------------------------------------
 

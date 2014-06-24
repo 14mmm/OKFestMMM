@@ -1,13 +1,23 @@
-# It works! ;-)
+# MMM : Mapping socio-ecologic innovation
 
+***MMM*** *is an initiative formed by more than 20 organizations within the fields of collective economies to collaborate on **Mapping Alternative Social and Ecologic Innovation**. Initiated in autumn 2013, followed by a kick off **Munich Mapping Meeting** in March 2014, we’re now on our [Road to Degrowth](http://programme.leipzig.degrowth.org/en/degrowth2014/public/events/221).*
 
-## Section 1
+Collaborative efforts are thriving everywhere, but still lack visibility. Where cartographic visualizations exist, they are limited in scope, scattered and under-used. This process aims at collecting, linking and visualizing existing groups, projects and initiatives of the collaborative economy.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+> Join our intermediary review of this international mapping process and learn more about collective mapping in the age of data.
 
+## Time and Space
 
-## Section 2
+Note: **18.07.2014** : **10 - 18**
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+<iframe width='100%' height='200px' frameBorder='0' src='http://a.tiles.mapbox.com/v3/almereyda.map-2zlwyof0/attribution,share.html'></iframe>
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Hint: [**Spreeacker**](venue.md), Wilhelmine-Gemberg-Weg, 10179 Berlin-Mitte
+
+## Topics
+
+* **Taxonomy Development**
+* **Mapping existing Mappings**
+* **Web Maps and Services**
+* Mapping the Mapping of Mappings
+* Research on social sustainability
