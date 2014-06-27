@@ -4,12 +4,22 @@
 
 &nbsp;
 
-| Time | Slot |
-| --- | ---- |
-| 10 - 14 | **Thinking MMM** : Taxonomy, Self-Organization and Mapping existing Mappings |
-| 14 - 15 | **Adrien Labaeye** : Research presentation on *The role of digital commons in sustainability transitions* |
-| 15 - 16 | **Orangotango** : *Mapping MMM.* [Critical collective mapping](http://orangotango.info/) of the process itself. |
-| 16 - 18 | **Live mapping** on the prototype. **or:** Your presentation or question?** [Write to us!](https://github.com/14mmm/OKFestMMM/issues) |
+| Time | Slot | Description |
+| ---: | :---: | --- |
+| 10&nbsp;-&nbsp;13 | **Thinking MMM** | *Working groups* on Taxonomy, Self-Organization and the Mapping of existing Mappings. |
+|  | *break* | |
+| 14&nbsp;-&nbsp;15 | **Introducing MMM** | [**Jon Richter**](https://twitter.com/almereyda) giving an *Overview of the collective mapping process* and its compartiments. |
+| 15&nbsp;-&nbsp;16 | **Contextualizing MMM** | [**Adrien Labaeye**](https://twitter.com/alabaeye) on *The role of digital commons in sustainability transitions*. |
+| | *break* | |
+| 16:30&nbsp;-&nbsp;18 | **Mapping MMM** | [**Orangotango**](http://orangotango.info/) doing a *Critical collective mapping workshop* of the process itself. |
+
+&nbsp;
+
+> This one-day session is conceived in three parts:
+> 
+> * an evaluation block that realigns [current activities of MMM](#Current_Activities) towards the [presentation at the Degrowth conference](http://programme.leipzig.degrowth.org/en/degrowth2014/public/events/221).
+> * a presentation block that delivers **contextual framings for the public**.
+> * a mapping workshop to exemplify the challenges of visualizing collaborative processes.
 
 &nbsp;
 
@@ -17,13 +27,13 @@
 
 ## Rationale
 
-The session is conceived as a mapping workshop to assess the usability of the interface and aims at refining the design of this tool in a collaborative process, adressing in particular the challenge of interlinked data in the case of mapping.
+&nbsp;
 
-The motivation of the initiators is to unify stand-alone initiatives and to maximize the visibility of the alternative movement by creating a large and open knowledge resource. It is crucial for the participants to ensure that this remains a non-profit effort that is owned and managed as a Commons.
+The original motivation of the initiators is to unify stand-alone initiatives, minimize redundancies in public relations and to maximize the visibility of the alternative movement by creating a large and open visual knowledge resource about self-organization. It is crucial for the participants to ensure that this remains a non-profit effort that is owned and managed as a Commons.
 
-We believe open maps have an extraordinary potential for visualizing and sharing knowledge and that they can be used as a lever for a bottom-up transition towards sustainability, beyond growth. We are very excited to exchange around the idea with the Fest's crowd. 
+We believe open maps have an extraordinary potential for visualizing and sharing knowledge and that they can be used as a lever for a bottom-up transition towards sustainability, beyond growth.
 
-Sustainably minded people, linked data aficionados as well as OSM contributors are encouraged to join us.
+We are very excited to exchange around the idea with the Fest's crowd. Sustainably minded people, linked data aficionados as well as OSM contributors are encouraged to join us.
 
 &nbsp;
 
@@ -33,7 +43,7 @@ Sustainably minded people, linked data aficionados as well as OSM contributors a
 
 &nbsp;
 
-In the prospect of finding ourselves, 
+In the prospect of finding early emergent patterns of self-organization, the MMM collective had to understand first its innerst dynamics, 
 
 &nbsp;
 
@@ -77,6 +87,10 @@ Civil society has accumulated an impressive amount of hands-on knowledge of what
 &nbsp;
 
 ### Web Maps and Services
+
+&nbsp;
+
+to assess the usability of the interface and aims at refining the design of this tool in a collaborative process, adressing in particular the challenge of interlinked data in the case of mapping.
 
 &nbsp;
 
