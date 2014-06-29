@@ -1,23 +1,11 @@
 # MMM : Mapping socio-ecologic innovation
 
-***MMM*** *is an initiative formed by more than 20 organizations within the fields of collective economies to collaborate on **Mapping Alternative Social and Ecologic Innovation**. Initiated in autumn 2013, followed by a kick off **Munich Mapping Meeting** in March 2014, we’re now on our [Road to Degrowth](http://programme.leipzig.degrowth.org/en/degrowth2014/public/events/221).*
-
-Collaborative efforts are thriving everywhere, but still lack visibility. Where cartographic visualizations exist, they are limited in scope, scattered and under-used. This process aims at collecting, linking and visualizing existing groups, projects and initiatives of the collaborative economy.
-
 > Join our intermediary review of this international mapping process and learn more about collective mapping in the age of data.
 
-## Time and Space
+| Topics | Time and Space |
+| --- | --- |
+| <dl class="dl-horizontal"><dt>Taxonomy Development</dt><dd>*to determine different qualities*</dd><dt>Mapping existing Mappings</dt><dd>*to assess practical examples*</dd><dt>Web Maps and Services</dt><dd>*to deliver high quality knowledge visualization*</dd><dt>*Mapping the Mapping of Mappings*</dt><dd>by critical mapping collective [Orangotango](http://orangotango.info)</dd><dt>*Research on social sustainability*</dt><dd>by the PhD thesis of [Adrien Labaeye](https://twitter.com/alabaeye)</dd></dl> | <br /><span class="glyphicon glyphicon-time"></span>&nbsp;Friday **18.07.2014** : **10 - 18**<br /><br /><iframe width='100%' height='200px' frameBorder='0' src='http://a.tiles.mapbox.com/v3/almereyda.map-2zlwyof0/attribution,share.html'></iframe><br /><br /><span class="glyphicon glyphicon-map-marker"></span>&nbsp;[**Spreeacker**](venue.md). Wilhelmine-Gemberg-Weg. 10179 Berlin-Mitte.<br /><br /> |
 
-Note: **18.07.2014** : **10 - 18**
-
-<iframe width='100%' height='200px' frameBorder='0' src='http://a.tiles.mapbox.com/v3/almereyda.map-2zlwyof0/attribution,share.html'></iframe>
-
-Hint: [**Spreeacker**](venue.md), Wilhelmine-Gemberg-Weg, 10179 Berlin-Mitte
-
-## Topics
-
-* **Taxonomy Development**
-* **Mapping existing Mappings**
-* **Web Maps and Services**
-* Mapping the Mapping of Mappings
-* Research on social sustainability
+<div class="jumbotron"><h1>All alternatives on one map!</h1><p><a class="btn btn-primary btn-lg" role="button" href="http://attending.io/events/mapping-mmm"><span class="glyphicon glyphicon-pencil"></span>&nbsp;Attend.</a></blockquote></p>
+<p>***MMM*** *is an initiative formed by more than 20 organizations within the fields of collective economies to collaborate on **Mapping Alternative Social and Ecologic Innovation**. Initiated in autumn 2013, followed by a kick off **Munich Mapping Meeting** in March 2014, we’re now on our [Road to Degrowth](http://programme.leipzig.degrowth.org/en/degrowth2014/public/events/221).*</p>
+<p>Collaborative efforts are thriving everywhere, but still lack visibility. Where cartographic visualizations exist, they are limited in scope, scattered and under-used. This process aims at collecting, linking and visualizing existing groups, projects and initiatives of the collaborative economy.</p></div>
