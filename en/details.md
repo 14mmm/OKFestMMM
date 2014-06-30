@@ -47,7 +47,7 @@
 
 The original motivation of the initiators is to unify stand-alone initiatives, minimize redundancies in public relations and to **maximize the visibility of the alternative, the movement of movements** by creating a **large and open visual knowledge resource** about self-organization. It is crucial for the participants to ensure that this remains a non-profit effort **owned and governed as a Commons**.
 
-We believe open maps have an extraordinary potential for **visualizing and sharing knowledge** and that they can be used as **a lever for a bottom-up transition** towards sustainability, *beyond* growth.
+We believe open maps have an extraordinary potential for **visualizing and sharing knowledge** and that they can be used as **a lever for a bottom-up transition** towards sustainability, *beyond*&nbsp;&nbsp;growth.
 
 > We are very excited to exchange around the idea with the Fest's crowd.
 *Sustainably minded people, linked data aficionados as well as OpenStreetMap (OSM) contributors are encouraged to join us.*
@@ -131,7 +131,7 @@ The critical mapping collective [Orangotango](http://orangotango.info) will prov
 
 ### Research on social sustainability
 
-When establishing sustaining processes, new political contexts are created and stimulated. [Adrien Labaeye](http://transitionlab.wordpress.com/author/ecolopirate/) helps us understanding broader implications of [digital commons in sustainability transitions](http://transitionlab.wordpress.com/2014/05/07/research-in-focus-1-digital-commons-for-an-urban-transition-towards-sustainability/). He is also entrenched in the TESS (look above) activities.
+When establishing sustaining processes, new political contexts are created and stimulated. [Adrien Labaeye](http://transitionlab.wordpress.com/author/ecolopirate/) helps us understanding broader implications of [digital commons in sustainability transitions](http://transitionlab.wordpress.com/2014/05/07/research-in-focus-1-digital-commons-for-an-urban-transition-towards-sustainability/). He is also entrenched in the TESS activities (*look above*).
 
 &nbsp;
 
